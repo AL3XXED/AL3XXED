@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AL3XXED
 - 👀 I’m interested in IT and Gaming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: i#m tired
+- 🌱 I’m currently learning ASP.NET
+- 📫 How to reach me A.Hasenkrug@outlook.de
+- ⚡ Fun fact: „Wenn Sie neue Dinge ausprobieren, lernen Sie neue Dinge.“ — Deborah Meier
 
 <!---
 AL3XXED/AL3XXED is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
